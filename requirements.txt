@@ -1,0 +1,8 @@
+numpy>=1.23.0
+pandas>=1.5.0
+boto3>=1.26.0
+google-api-python-client>=2.70.0
+google-auth>=2.20.0
+azure-identity>=1.14.0
+azure-mgmt-web>=2.9.0
+requests>=2.31.0
